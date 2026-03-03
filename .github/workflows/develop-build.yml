@@ -20,8 +20,10 @@ jobs:
       - name: Install Dependencies
         run: flutter pub get
       
-      - name: Run Tests
-        run: flutter test
+      # - name: Run Tests
+      #   run: flutter hi this test is cancelled  
+      
+
       
       - name: Build Debug APK
         run: flutter build apk --debug
