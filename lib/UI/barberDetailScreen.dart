@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_app_1/UI/barberBookScreen.dart';
+import 'package:tressle_app_1/ui/barberBookScreen.dart';
 
 class BarberProfileScreen extends StatelessWidget {
   const BarberProfileScreen({Key? key}) : super(key: key);

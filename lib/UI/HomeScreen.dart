@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_app_1/UI/BarberHomeScreen.dart';
-import 'package:tressle_app_1/UI/historyScreen.dart';
-import 'package:tressle_app_1/UI/mapScreen.dart';
-import 'package:tressle_app_1/UI/notificationScreen.dart';
-import 'package:tressle_app_1/UI/profileScreen.dart';
+import 'package:tressle_app_1/ui/BarberHomeScreen.dart';
+import 'package:tressle_app_1/ui/historyScreen.dart';
+import 'package:tressle_app_1/ui/mapScreen.dart';
+import 'package:tressle_app_1/ui/notificationScreen.dart';
+import 'package:tressle_app_1/ui/profileScreen.dart';
 
 class MainScreen extends StatefulWidget {
   final int index; // required index

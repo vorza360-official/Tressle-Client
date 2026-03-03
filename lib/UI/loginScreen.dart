@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_app_1/Services/auth_check.dart';
-import 'package:tressle_app_1/Services/auth_service.dart';
-import 'package:tressle_app_1/UI/forgetPasswordUsernameScreen.dart';
-import 'package:tressle_app_1/UI/locationDirectionScreen.dart';
-import 'package:tressle_app_1/UI/signupScreen.dart';
+import 'package:tressle_app_1/services/auth_check.dart';
+import 'package:tressle_app_1/services/auth_service.dart';
+import 'package:tressle_app_1/ui/forgetPasswordUsernameScreen.dart';
+import 'package:tressle_app_1/ui/locationDirectionScreen.dart';
+import 'package:tressle_app_1/ui/signupScreen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);

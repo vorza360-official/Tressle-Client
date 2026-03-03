@@ -7,12 +7,12 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:intl/intl.dart';
-import 'package:tressle_app_1/UI/Widgets/drawerOpener.dart';
-import 'package:tressle_app_1/UI/hairsServiceScreen.dart';
-import 'package:tressle_app_1/UI/historyScreen.dart';
-import 'package:tressle_app_1/UI/nearToYouScreen.dart';
-import 'package:tressle_app_1/UI/profileScreen.dart';
-import 'package:tressle_app_1/UI/shopDetailScreen.dart';
+import 'package:tressle_app_1/ui/Widgets/drawerOpener.dart';
+import 'package:tressle_app_1/ui/hairsServiceScreen.dart';
+import 'package:tressle_app_1/ui/historyScreen.dart';
+import 'package:tressle_app_1/ui/nearToYouScreen.dart';
+import 'package:tressle_app_1/ui/profileScreen.dart';
+import 'package:tressle_app_1/ui/shopDetailScreen.dart';
 
 class BarbershopHomeScreen extends StatefulWidget {
   const BarbershopHomeScreen({Key? key}) : super(key: key);

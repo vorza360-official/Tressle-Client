@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_app_1/Services/auth_service.dart';
-import 'package:tressle_app_1/UI/emailVerificationScreen.dart';
-import 'package:tressle_app_1/UI/loginScreen.dart';
+import 'package:tressle_app_1/services/auth_service.dart';
+import 'package:tressle_app_1/ui/emailVerificationScreen.dart';
+import 'package:tressle_app_1/ui/loginScreen.dart';
 
 class SignUpScreen extends StatefulWidget {
   @override

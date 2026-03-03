@@ -6,15 +6,15 @@ import 'package:geocoding/geocoding.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:tressle_app_1/UI/CustomerSupportScreen.dart';
-import 'package:tressle_app_1/UI/HomeScreen.dart';
-import 'package:tressle_app_1/UI/blogsScreen.dart';
+import 'package:tressle_app_1/ui/CustomerSupportScreen.dart';
+import 'package:tressle_app_1/ui/HomeScreen.dart';
+import 'package:tressle_app_1/ui/blogsScreen.dart';
 import 'dart:io';
 
-import 'package:tressle_app_1/UI/loginScreen.dart';
-import 'package:tressle_app_1/UI/paymentMethodSelectionScreen.dart';
-import 'package:tressle_app_1/UI/privacyPolicyPage.dart';
-import 'package:tressle_app_1/UI/termsConditionsScreen.dart';
+import 'package:tressle_app_1/ui/loginScreen.dart';
+import 'package:tressle_app_1/ui/paymentMethodSelectionScreen.dart';
+import 'package:tressle_app_1/ui/privacyPolicyPage.dart';
+import 'package:tressle_app_1/ui/termsConditionsScreen.dart';
 
 // Import your AuthService
 // import 'package:your_app/services/auth_service.dart';

@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:tressle_app_1/Services/auth_service.dart';
-import 'package:tressle_app_1/UI/loginScreen.dart';
+import 'package:tressle_app_1/services/auth_service.dart';
+import 'package:tressle_app_1/ui/loginScreen.dart';
 
 class EmailVerificationScreen extends StatefulWidget {
   final AuthService authService;

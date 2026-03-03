@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:get/get.dart';
-import 'package:tressle_app_1/UI/BarberHomeScreen.dart';
+import 'package:tressle_app_1/ui/BarberHomeScreen.dart';
 import 'dart:math' as math;
 
-import 'package:tressle_app_1/UI/give_review_screen.dart';
-import 'package:tressle_app_1/UI/shopDetailScreen.dart';
+import 'package:tressle_app_1/ui/give_review_screen.dart';
+import 'package:tressle_app_1/ui/shopDetailScreen.dart';
 import 'package:tressle_app_1/controller/appointment_controller.dart';
 
 class HistoryBookingWidget extends StatefulWidget {

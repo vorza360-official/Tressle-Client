@@ -1,7 +1,7 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-import 'package:tressle_app_1/Services/auth_check.dart';
-import 'package:tressle_app_1/UI/signupScreen.dart';
+import 'package:tressle_app_1/services/auth_check.dart';
+import 'package:tressle_app_1/ui/signupScreen.dart';
 
 class SplashScreen extends StatefulWidget {
   @override

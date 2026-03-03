@@ -4,12 +4,12 @@ import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:tressle_app_1/Models/BarberShop.dart';
-import 'package:tressle_app_1/UI/Widgets/drawerOpener.dart';
-import 'package:tressle_app_1/UI/barberDetailScreen.dart';
-import 'package:tressle_app_1/UI/bookingTimmingScreen.dart';
-import 'package:tressle_app_1/UI/forgetPasswordUsernameScreen.dart';
-import 'package:tressle_app_1/UI/shopOnMapScreen.dart';
-import 'package:tressle_app_1/UI/shopReviewsScreen.dart';
+import 'package:tressle_app_1/ui/Widgets/drawerOpener.dart';
+import 'package:tressle_app_1/ui/barberDetailScreen.dart';
+import 'package:tressle_app_1/ui/bookingTimmingScreen.dart';
+import 'package:tressle_app_1/ui/forgetPasswordUsernameScreen.dart';
+import 'package:tressle_app_1/ui/shopOnMapScreen.dart';
+import 'package:tressle_app_1/ui/shopReviewsScreen.dart';
 import 'package:tressle_app_1/controller/appointment_controller.dart';
 import 'package:url_launcher/url_launcher.dart';
 

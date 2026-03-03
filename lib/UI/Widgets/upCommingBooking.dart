@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:intl/intl.dart';
-import 'package:tressle_app_1/UI/BarberHomeScreen.dart';
+import 'package:tressle_app_1/ui/BarberHomeScreen.dart';
 import 'dart:math' as math;
 
 class UpCommingBookingWidget extends StatefulWidget {

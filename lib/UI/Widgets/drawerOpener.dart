@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_app_1/UI/profileScreen.dart';
+import 'package:tressle_app_1/ui/profileScreen.dart';
 
 class AppDrawer extends StatelessWidget {
   const AppDrawer({Key? key}) : super(key: key);
