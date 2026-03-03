@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "483858559173",
+    "project_id": "tree-platform-7ae17",
+    "storage_bucket": "tree-platform-7ae17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483858559173:android:76d9ac376d449ace9f80ac",
+        "android_client_info": {
+          "package_name": "com.example.tressle_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483858559173-7m8p6d6e4f757e3kncmh8j8dfhu0jvlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tressle_app_1",
+            "certificate_hash": "c37beba4602e8f65bac5ab9c9d9aa08bea950e0b"
+          }
+        },
+        {
+          "client_id": "483858559173-hfkoubsadecjl1uhhlqdkgalo2k1ahdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBQSxGjr8bZZHsRZAsvYDRVLQH_r7vt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483858559173-hfkoubsadecjl1uhhlqdkgalo2k1ahdg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483858559173-7ofkchqlcip69mpe59boilgdg22opab6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tressleApp1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483858559173:android:d0aa492cd380a7899f80ac",
+        "android_client_info": {
+          "package_name": "com.example.tressle_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483858559173-59bl5h8qreb39ll4ekvf7nu5eoecjv49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tressle_business",
+            "certificate_hash": "ba00ffa5608035918f4f590328a09ab71cbec88c"
+          }
+        },
+        {
+          "client_id": "483858559173-hfkoubsadecjl1uhhlqdkgalo2k1ahdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBQSxGjr8bZZHsRZAsvYDRVLQH_r7vt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483858559173-hfkoubsadecjl1uhhlqdkgalo2k1ahdg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483858559173-7ofkchqlcip69mpe59boilgdg22opab6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tressleApp1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483858559173:android:d767fa37529ff23d9f80ac",
+        "android_client_info": {
+          "package_name": "com.vorza360.tressle_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483858559173-lroajpitqrccfcstlslc0j48ttp3k4sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vorza360.tressle_client",
+            "certificate_hash": "96456f26c478d8fe019eb0466617cb2cd0c23fd4"
+          }
+        },
+        {
+          "client_id": "483858559173-oen0atphviolmspsvldcu7jgqc549nvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vorza360.tressle_client",
+            "certificate_hash": "c37beba4602e8f65bac5ab9c9d9aa08bea950e0b"
+          }
+        },
+        {
+          "client_id": "483858559173-hfkoubsadecjl1uhhlqdkgalo2k1ahdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBQSxGjr8bZZHsRZAsvYDRVLQH_r7vt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483858559173-hfkoubsadecjl1uhhlqdkgalo2k1ahdg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483858559173-7ofkchqlcip69mpe59boilgdg22opab6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tressleApp1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
