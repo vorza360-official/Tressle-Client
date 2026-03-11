@@ -32,11 +32,11 @@ jobs:
           chmod 600 android/app/key.jks
       
       # ===== VERSIONING =====
-      - name: Update version in pubspec.yaml
-        run: |
-          # Using GitHub run_number as build number
-          sed -i "s/version: .*/version: 1.0.0+${{ github.run_number }}/" pubspec.yaml
-          echo "✅ Updated version to 1.0.0+${{ github.run_number }}"
+      # - name: Update version in pubspec.yaml
+      #   run: |
+      #     # Using GitHub run_number as build number
+      #     sed -i "s/version: .*/version: 1.0.0+${{ github.run_number }}/" pubspec.yaml
+      #     echo "✅ Updated version to 1.0.0+${{ github.run_number }}"
       
       - name: Install Dependencies
         run: flutter pub get
